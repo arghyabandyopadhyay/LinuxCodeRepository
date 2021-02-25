@@ -1,0 +1,8 @@
+//to add all the new files to the repository
+git add .
+//to add any particular file
+git add /pathToTheFileFromTheCurrentDirectory
+//to commit the new files
+git commit -m "Commit Message"
+//to push the commit
+git push -u origin main
